@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Don't Start Now",
+  "base_artist": "Dua Lipa",
+  "createdAt": "2026-03-08T13:15:37.242379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/01_Don't_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don’t Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/02_Don’t_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don’t Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/03_Don’t_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Start Now (Yaeji Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/04_Don't_Start_Now_(Yaeji_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don’t Start Now (Yaeji remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/05_Don’t_Start_Now_(Yaeji_remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Start Now (Live in LA Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/06_Don't_Start_Now_(Live_in_LA_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don’t Start Now (live in L.A. remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/07_Don’t_Start_Now_(live_in_L.A._remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/08_Don't_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/09_Don't_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Start Now (Yaeji Remix) [Mixed]",
+      "artist": "Dua Lipa feat. The Blessed Madonna & Yaeji",
+      "has_synced": true,
+      "path": "select/10_Don't_Start_Now_(Yaeji_Remix)_[Mixed]_Dua_Lipa_feat._The_Blessed_Madonna_&_Yaeji.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Start Now (Yaeji Remix) [Mixed]",
+      "artist": "Dua Lipa & The Blessed Madonna",
+      "has_synced": true,
+      "path": "select/11_Don't_Start_Now_(Yaeji_Remix)_[Mixed]_Dua_Lipa_&_The_Blessed_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/12_Don't_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don’t Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/13_Don’t_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don’t Start Now (Kaytranada Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/14_Don’t_Start_Now_(Kaytranada_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Start Now (Dom Dolla Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/15_Don't_Start_Now_(Dom_Dolla_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/16_Don't_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Start Now  (Kungs Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/17_Don't_Start_Now_(Kungs_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Don't Start Now  (Live in LA Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/18_Don't_Start_Now_(Live_in_LA_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Start_Now_Dua_Lipa.txt"
+    }
+  ]
+}
